@@ -10,8 +10,6 @@ body {
     display: flex;
     align-items: center;
     min-height: 100vh;
-}
-body {
     background-image: url(./lib/img/bg-pattern-top.svg), url(./lib/img/bg-pattern-bottom.svg);
     background-repeat: no-repeat, no-repeat;
     background-position: right 45vw bottom 50vh , left 37vw top 40vh;
